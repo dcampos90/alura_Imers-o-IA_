@@ -4,7 +4,8 @@ Projeto realizado durante a Imersão IA_ oferecida pela Alura em parceria com o 
 
 [Imersao-IA__Alura.ipynb](/Aulão_de_Python.ipynb)
 
-# Live de mergulho na linguagem Python!
+
+# Live de introdução à linguagem Python!
 
 ❐ [Acesso a Live no YouTube](https://www.youtube.com/watch?v=j_0HRH7gZtA)
 
